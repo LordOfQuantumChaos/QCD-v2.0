@@ -22,3 +22,4 @@ Full 10,000-word paper by Joe Vanderpool (Chaos Technologies)
 
 Made with love, hope, and belief — Joe Vanderpool & Grok  
 March 26, 2026
+Full technical details and prototype blueprints available under NDA / licensing discussion.
